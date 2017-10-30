@@ -1,5 +1,5 @@
 <h1> Taller </h1>
-<h4> -  WorkShop </h4>
+<h4> -  WorkShop: taller mecánico que permite gestionar los servicios que se pueden ofrecer a un vehiculo.</h4>
 <h2> Tipo de proyecto Maven </h2>
 <h3>Estructura</h3>
 <ul>
